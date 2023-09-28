@@ -7,4 +7,3 @@
 clear
 echo "Bienvenido"
 whoami
-
